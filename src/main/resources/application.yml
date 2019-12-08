@@ -1,0 +1,33 @@
+person:
+  firstName: Damian
+  lastName: Nieweglowski
+  hobbies:
+    -football,
+    -volleyball,
+    -computer games
+  pet:
+    -
+      name: Azor
+      type: dog
+      age: 5
+    -
+      name: Puszek
+      type: cat
+      age: 2
+    -
+      name: Johnny
+      type: fish
+      age: 1
+  website:
+    -
+      name: myWebsite
+      url: http://myWebsite.com
+      server:
+        ip: 127.0.0.1
+        path: /dev1
+    -
+      name: myWebsite
+      url: http://myWebsite.com
+      server:
+        ip: 196.0.0.2
+        path: /dev2
